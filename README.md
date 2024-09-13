@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm ravi annangi</h1>
+<h1 align="center">Hi 👋, I'm RAVI ANNANGI </h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravui&label=Profile%20views&color=0e75b6&style=flat" alt="ravui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravui" alt="ravui" /></a> </p>
 
 - 🌱 I’m currently learning **java script and react**
 
@@ -22,4 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravui&show_icons=true&locale=en&layout=compact" alt="ravui" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravui&show_icons=true&locale=en" alt="ravui" /></p>
+
 
