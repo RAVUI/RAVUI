@@ -107,6 +107,4 @@ Building scalable backend systems, AI-powered applications, and cloud automation
 
 ---
 
-### ⚡ Quote
-
 > "Consistency beats motivation. Keep building, keep learning."
