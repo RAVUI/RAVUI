@@ -104,22 +104,6 @@ Building scalable backend systems, AI-powered applications, and cloud automation
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,github" />
 </p>
 
----
-
-# 🚀 Current Focus
-
-- AI Powered Applications
-- Cloud Migration
-- Backend Engineering
-- AWS Services
-- Python Automation
-- Enterprise APIs
-- Authentication & Authorization
-- RBAC
-- SQL Optimization
-- Microservices
-
---
 
 ---
 
