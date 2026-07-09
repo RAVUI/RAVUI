@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Annangi</h1>
 
 <h3 align="center">
-Software Engineer | .NET Developer | Python Developer | Cloud & AI Enthusiast
+Software Engineer | .NET Developer | Cloud & AI Enthusiast
 </h3>
 
 <p align="center">
