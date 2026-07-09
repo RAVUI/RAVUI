@@ -107,4 +107,4 @@ Building scalable backend systems, AI-powered applications, and cloud automation
 
 ---
 
-> "Consistency beats motivation. Keep building, keep learning."
+> "Make it Exist first , Then Make it Better."
